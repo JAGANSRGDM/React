@@ -1,0 +1,27 @@
+
+{
+	"datails":{
+		"Name":"Jagan Saragadam",
+		"photo":"images/myimg.jpg",
+		"Branch":"ES&VLSID",
+		"Courses":["python3","ReactJs","Java","Django"]
+	},
+
+	"Data":[
+		{
+			"name":"Ramu",
+			"phone":123456789,
+			"email":"ramusrgdm@gmail.com"
+		},
+		{
+			"name":"Jagan",
+			"phone":123456789,
+			"email":"jagansrgdm@gmail.com"
+		},
+		{
+			"name":"Krishna",
+			"phone":123456789,
+			"email":"krishnasrgdm@gmail.com"
+		}
+	]
+}

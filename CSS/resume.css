@@ -1,0 +1,52 @@
+img
+{
+	border: 2px solid blue;
+	height: 120px;
+	width:	130px;
+}
+#child-id
+{
+	display: flex;
+	flex-direction: row;
+	width: 95%;
+	padding: 1%;
+	margin: 2%;
+	border: 2px solid orange;
+}
+.card
+{
+	padding: 1%;
+	margin: 5%;
+	border:2px dotted blue;
+	box-shadow: 10px 10px 10px 10px;
+	height: auto;
+	width: 300px;
+}
+
+.parent1
+{
+	display: flex;
+	flex-direction: row;
+	padding: 1%;
+	margin: 2%;
+}
+
+table,td,tr,th{
+	border: 2px solid skyblue;
+	border-collapse: collapse;
+}
+
+#decl-id{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-left:5%;
+}
+
+<<<<<<< HEAD
+ul,ol{
+=======
+ol,ul{
+>>>>>>> 6037390e80088752bf5d4f44bb5e83d912b2d3a5
+	border: 2px solid skyblue;
+}

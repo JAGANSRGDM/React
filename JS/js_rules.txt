@@ -1,0 +1,14 @@
+No comments alloweed in the json file.
+
+
+//Annonomys function:it has no name and it is calls itself
+// (function() {
+	
+// })
+// XMLHttpRequest(AJAX call)
+
+
+/*json allows only double quotations.
+overall code written in  a object.
+json object created like this
+*/
